@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=establish+Retrosans+OTF:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+  --font-establish-retrosans-otf: "establish Retrosans OTF";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #8a8a8a;
+  --color-gray-200: #1f1f1f;
+  --color-gray-300: #1e1e1e;
+  --color-lavenderblush: #ffeff5;
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-5xs: 8px;
+  --br-7xs: 6px;
+  --br-81xl: 100px;
+}

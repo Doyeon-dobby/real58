@@ -1,0 +1,420 @@
+.child,
+.div1 {
+  position: absolute;
+  left: 0;
+}
+.div1 {
+  top: 74px;
+  background-color: var(--color-lavenderblush);
+  width: 360px;
+  height: 570px;
+}
+.child {
+  top: 0;
+  width: 24px;
+  height: 24px;
+}
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-100);
+  width: 22px;
+  height: 3px;
+}
+.group-inner,
+.group-item {
+  top: 6px;
+}
+.group-inner {
+  top: 12px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 4px;
+  left: 1px;
+  width: 22px;
+  height: 15px;
+}
+.arrow-back-ios,
+.div2,
+.item {
+  position: absolute;
+  top: 84px;
+  left: 320px;
+  width: 24px;
+  height: 24px;
+}
+.arrow-back-ios,
+.item {
+  top: 37px;
+  left: 16px;
+}
+.item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.div4,
+.div5 {
+  line-height: 16px;
+}
+.div4 {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.div5 {
+  position: relative;
+  font-weight: 500;
+}
+.container,
+.wrapper {
+  position: absolute;
+  top: 20px;
+  left: 48px;
+  border-radius: 0 var(--br-7xs) var(--br-7xs) var(--br-7xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  top: 58px;
+}
+.div3,
+.rectangle-div {
+  position: absolute;
+  top: 120px;
+  left: 16px;
+  width: 235px;
+  height: 90px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: rgba(178, 178, 178, 0.3);
+  width: 133px;
+  height: 19px;
+}
+.div8 {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  line-height: 11px;
+  font-weight: 500;
+}
+.div7,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 133px;
+  height: 19px;
+}
+.div7 {
+  top: 86px;
+  left: 114px;
+  font-size: var(--font-size-xs);
+}
+.frame-div {
+  position: absolute;
+  top: 60px;
+  left: 48px;
+  border-radius: 0 var(--br-7xs) var(--br-7xs) var(--br-7xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: center;
+  justify-content: center;
+}
+.div13,
+.div9 {
+  left: 16px;
+  width: 232px;
+  height: 92px;
+}
+.div9 {
+  position: absolute;
+  top: 230px;
+}
+.div13 {
+  top: 532px;
+}
+.div13,
+.div17,
+.icon {
+  position: absolute;
+}
+.icon {
+  top: 334px;
+  left: 56px;
+  border-radius: var(--br-7xs);
+  width: 202px;
+  height: 126px;
+  object-fit: cover;
+}
+.div17 {
+  top: 480px;
+  left: 122px;
+  border-radius: var(--br-7xs) 0 var(--br-7xs) var(--br-7xs);
+  background-color: #d8f6ff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: center;
+  justify-content: center;
+}
+.icon1 {
+  top: 25px;
+  left: 0;
+  width: 360px;
+  height: 48px;
+}
+.div20,
+.icon1,
+.icon2 {
+  position: absolute;
+}
+.div20 {
+  top: 50px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 360px;
+  height: 1px;
+}
+.icon2 {
+  top: 13px;
+  left: 320px;
+  width: 24px;
+  height: 24px;
+}
+.span {
+  color: #97e6ff;
+}
+.div21 {
+  position: absolute;
+  top: 9px;
+  left: 118px;
+  letter-spacing: 0.04em;
+  line-height: 32px;
+}
+.b,
+.b1,
+.b2,
+.child1 {
+  position: absolute;
+  left: 0;
+}
+.child1 {
+  top: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid #434343;
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.b,
+.b1,
+.b2 {
+  top: 6.86px;
+  line-height: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.07px;
+  height: 4.5px;
+}
+.b1,
+.b2 {
+  top: 0;
+  left: 11.25px;
+  font-size: 10px;
+  line-height: 10px;
+  width: 6.75px;
+  height: 7.5px;
+}
+.b2 {
+  top: 3.75px;
+  left: 5.25px;
+  font-size: 8px;
+  line-height: 8px;
+  width: 5.25px;
+  height: 6px;
+}
+.div22,
+.parent {
+  position: absolute;
+  top: 6px;
+  left: 2.57px;
+  width: 18px;
+  height: 11.36px;
+}
+.div22 {
+  top: 13px;
+  left: 288px;
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  font-size: 6px;
+  color: var(--color-black);
+  font-family: var(--font-pretendard);
+}
+.div23 {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  height: 1px;
+}
+.div19,
+.div23,
+.icon3 {
+  position: absolute;
+  left: 0;
+  width: 360px;
+}
+.div19 {
+  top: 24px;
+  height: 50px;
+  text-align: left;
+  font-size: 30px;
+  color: #ffa7a7;
+  font-family: var(--font-establish-retrosans-otf);
+}
+.icon3 {
+  top: 644px;
+  height: 46px;
+}
+.div25,
+.search-icon {
+  position: absolute;
+  top: 0;
+}
+.div25 {
+  left: 0;
+  background-color: var(--color-lavenderblush);
+  width: 360px;
+  height: 68px;
+}
+.search-icon {
+  left: 7px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.div27 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  line-height: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+}
+.div26 {
+  position: relative;
+  width: 42px;
+  height: 44px;
+}
+.div31 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  line-height: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+}
+.auto-awesome-icon {
+  position: absolute;
+  top: 0;
+  left: 12.22px;
+  width: 28.51px;
+  height: 28px;
+  overflow: hidden;
+}
+.div30 {
+  position: relative;
+  width: 56px;
+  height: 44px;
+}
+.div33,
+.icon4 {
+  position: absolute;
+}
+.div33 {
+  top: 28px;
+  left: 0;
+  line-height: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+}
+.icon4 {
+  top: 0;
+  left: 10px;
+  width: 28px;
+  height: 28px;
+}
+.div32,
+.icon5 {
+  position: relative;
+  width: 48px;
+  height: 44px;
+}
+.icon5 {
+  border-radius: var(--br-base);
+  width: 44px;
+  object-fit: cover;
+}
+.div24,
+.group {
+  position: absolute;
+}
+.group {
+  top: 12px;
+  left: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.div24 {
+  top: 690px;
+  left: 0;
+  width: 360px;
+  height: 68px;
+  font-size: var(--font-size-xs);
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  font-family: var(--font-pretendard);
+}
